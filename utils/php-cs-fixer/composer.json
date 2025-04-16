@@ -1,0 +1,7 @@
+{
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "friendsofphp/php-cs-fixer": "^3.74"
+    }
+}
