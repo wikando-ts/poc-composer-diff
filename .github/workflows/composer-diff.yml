@@ -7,8 +7,8 @@ on:
       - reopened
     paths:
       - '!*'
-      - './composer.lock'
-      - './utils/**/composer.lock'
+      - 'composer.lock'
+      - 'utils/**/composer.lock'
 
 ## This workflow needs the `pull-request` permissions to work
 ## Refs: https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#permissions
